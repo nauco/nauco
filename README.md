@@ -2,7 +2,7 @@
 - 👀 I’m interested DevOps
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me h5d2lee@gmail.com
+- 📫 How to reach me 
 
 <!---
 nauco/nauco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
